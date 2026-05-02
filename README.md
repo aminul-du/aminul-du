@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**aminul-du/aminul-du** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aminul-du/aminulcsedu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
