@@ -1,0 +1,18 @@
+gantt
+    title Rust Learning Path
+    dateFormat YYYY-MM-DD
+    axisFormat %b
+    section Foundations
+    rustlings The Book :a1, 2026-09-15, 21d
+    tokio basics :a2, after a1, 21d
+    section Domain
+    BGP speaker Rust :b1, after a2, 30d
+    FlowSpec parser :b2, after b1, 30d
+    eBPF Aya :b3, after b2, 30d
+    section Production
+    tracing metrics :c1, after b3, 30d
+    static deploy :c2, after c1, 20d
+    section Authority
+    Read Pingora :d1, after c2, 30d
+    Blog talk :d2, after d1, 30d
+    Open PR :d3, after d2, 30d
