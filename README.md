@@ -2,7 +2,7 @@
 
 **IP Transit & Carrier Network Architect.** IIG / ISP / ITC backbone engineering with **13+ years of experience in high-capacity Internet infrastructure across Bangladesh.**
 
-Currently **Dy Manager, IIG Gateway** at [Summit Communications](https://summitcommunications.net) (AS58717).  
+Currently **Dy. Manager, IIG Gateway** at [Summit Communications](https://summitcommunications.net) (AS58717).  
 Postgraduate study in **Information & Cyber Security (PMICS)** at the **University of Dhaka**.
 
 ---
