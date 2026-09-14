@@ -19,17 +19,29 @@
 
 ## Selected work
 
-- **National IIG platform swap** — led migration from Juniper/Cisco to Huawei (NE-40E, S8851)
+### Carrier-grade / gateway
+- **8+ Tbps national gateway operations** on Cisco NCS 9000 and Huawei platforms (AS58717) — **99.88% uptime** through fiber cuts, submarine cable shifts (SMW4/SMW5/SMW6), and trans-border outages
+- **5-phase Uttara Data Center migration** — zero-downtime hot-swap of core routers, transit links, and submarine cable paths
+- **National IIG platform swap** — Juniper/Cisco → Huawei (NE-40E, S8851)
 - **IPv6 rollout** for Grameenphone, Robi, Banglalink
-- **Submarine cable** systems — planning and new-business technical scope
-- **Felicity IDC TIER-III** — security architecture (OpenStack / F5)
-- **Starlink satellite** integration — national strategic project
-- **Bank data networks** — DBBL, IBBL, Ansar-VDP branch ATM/FT connectivity
+- **Submarine cable** planning · **Felicity IDC TIER-III** (OpenStack / F5) · **Starlink** integration
 - **Upstream peers** — TATA, Bharti, NTT, RETN, Equinix, BBIX
+
+### Enterprise / ISP / hosting
+- **MAXIM AAA Radius billing** — scaled automated broadband infrastructure to **700+ internet resellers**, with DBBL Rocket payment integration
+- **Bank access networks** — L2 access + redundant backup for ATM and EFT across **32 national commercial banks** (2014), using VPN, IPIP, GRE, and IPsec-over-GRE
+- **CDN-backed media hosting** — Prothom Alo, NTV, BanglaTribune
+- **IPTV / VoD streaming** and Asterisk/Issabel IPTSP voice systems
+
+### Security / automation
+- **DDoS mitigation** — BGP FlowSpec, RTBH, FlowShield, Python/Ansible off-ramp orchestration and cloud scrubbing
+- **A525 SmartNet** — hybrid modular platform for automated threat detection, policy enforcement, remediation
+- **Agentic observability** — Gemini API + eBPF research for fiber attenuation prediction, BGP route flap detection, automated RCA
+- **Digital forensics blueprint** — SIEM telemetry, RPKI/ROA validation, chain-of-custody logging
 
 ## Domain
 
-`BGP` `MPLS` `OSPF` `IS-IS` `IPv6` `SRv6` `IIG` `IX` `PNI` `CDN` `DDoS mitigation` `FlowSpec` `RTBH` `L7 firewall` `Palo Alto` `Fortinet` `F5` `Linux RHCE` `Python` `Ansible` `Docker` `AI/ML for NetOps`
+`BGP` `MPLS` `OSPF` `IS-IS` `IPv6` `SRv6` `IIG` `IX` `PNI` `CDN` `DDoS mitigation` `FlowSpec` `RTBH` `L7 firewall` `Palo Alto` `Fortinet` `F5` `Cisco NCS` `Huawei NE-40E` `Linux RHCE` `Python` `Ansible` `eBPF` `AI/ML for NetOps`
 
 ## Certifications
 
