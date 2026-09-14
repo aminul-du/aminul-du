@@ -1,18 +1,20 @@
 # Md. Aminul Islam "Shamim"
 
-**Carrier-grade network architect.** IIG / ISP / ITC backbone. 13+ years in high-capacity internet infrastructure across Bangladesh.
+**IP Transit & Carrier Network Architect.** IIG / ISP / ITC backbone engineering with **13+ years of experience in high-capacity Internet infrastructure across Bangladesh.**
 
-Currently Deputy Manager, IIG Gateway at [Summit Communications](https://summitcommunications.net) (AS58717).
-Completing M.Sc. Information & Cyber Security (PMICS), University of Dhaka.
+Currently **Dy Manager, IIG Gateway** at [Summit Communications](https://summitcommunications.net) (AS58717).  
+Postgraduate study in **Information & Cyber Security (PMICS)** at the **University of Dhaka**.
 
 ---
 
-## Summary
+## Professional Summary
 
-**Carrier-Grade Network, Cybersecurity & Infrastructure Architect**
-**IIG / ISP / ITC · Systems · Automation · Cloud · AI-Assisted NetOps**
+**IP Transit · Carrier-Grade Networking · Cybersecurity · Infrastructure Engineering**  
+**IIG / ISP / ITC · BGP MPLS VXLAN & Peering · Systems · Automation · Cloud · AI-Assisted NetOps স্বরবর্ণ AI**
 
-13+ years across carrier-grade Internet infrastructure, cybersecurity, enterprise/ISP systems, Linux, programming and automation, databases, cloud/virtualization, observability and large-scale service operations; complemented by postgraduate Information & Cyber Security education at the University of Dhaka.
+13+ years of hands-on engineering experience across **IP transit, carrier-grade Internet infrastructure, IIG/ISP gateway operations, international upstream connectivity, BGP routing and peering, IX/PNI and CDN interconnection, cybersecurity, enterprise infrastructure, Linux systems, programming and automation, databases, cloud and virtualization, observability, and large-scale service operations**.
+
+Combines production infrastructure engineering with postgraduate **Information & Cyber Security** education at the **University of Dhaka**, spanning network and Internet security, digital forensics, applied cryptography, software and cloud security, privacy, and critical information infrastructure protection.
 
 ---
 
