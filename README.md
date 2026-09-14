@@ -60,3 +60,16 @@
 ---
 
 <sub>Last updated 2026-09-14.</sub>
+
+---
+
+## Charts
+
+| | |
+|---|---|
+| ![Mindmap](./charts/1-mindmap.png) | ![Timeline](./charts/2-timeline.png) |
+| ![Quadrant](./charts/3-quadrant.png) | ![Career Path](./charts/4-career-path.png) |
+| ![Rust Path](./charts/5-rust-gantt.png) | ![Git Flow](./charts/6-git-graph.png) |
+| ![Time](./charts/7-pie.png) | ![Journey](./charts/8-journey.png) |
+
+<sub>Charts rendered from [Mermaid](https://mermaid.live).</sub>
