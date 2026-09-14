@@ -9,7 +9,10 @@ Completing M.Sc. Information & Cyber Security (PMICS), University of Dhaka.
 
 ## Summary
 
-Telecommunications and network security professional with 13+ years in ISP, IIG, and large-scale ITC operations. Focus on network architecture, carrier-grade routing, DDoS mitigation, and automation-first operations. Academic specialisation in cyber security complements hands-on operational experience.
+**Carrier-Grade Network, Cybersecurity & Infrastructure Architect**
+**IIG / ISP / ITC · Systems · Automation · Cloud · AI-Assisted NetOps**
+
+13+ years across carrier-grade Internet infrastructure, cybersecurity, enterprise/ISP systems, Linux, programming and automation, databases, cloud/virtualization, observability and large-scale service operations; complemented by postgraduate Information & Cyber Security education at the University of Dhaka.
 
 ---
 
